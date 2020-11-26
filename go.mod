@@ -1,3 +1,3 @@
-module github.com/rhinonet/Paytm_Go_Checksum
+module github.com/rhinonet/paytm-go-checksum
 
 go 1.14
